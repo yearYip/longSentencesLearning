@@ -1,0 +1,2199 @@
+[
+    {
+        "id": 1,
+        "original": "The hypothesis that the dramatic increase in the population of coastal cities during the nineteenth century was primarily a consequence of rural-to-urban migration rather than of natural increase has been challenged by recent demographic studies.",
+        "chunks": [
+            "The hypothesis",
+            "that the dramatic increase in the population of coastal cities",
+            "during the nineteenth century",
+            "was primarily a consequence",
+            "of rural-to-urban migration",
+            "rather than of natural increase",
+            "has been challenged",
+            "by recent demographic studies."
+        ]
+    },
+    {
+        "id": 2,
+        "original": "The scientists who first proposed the theory that the extinction of the dinosaurs was caused by an asteroid impact were initially met with skepticism by a community that had long favored the gradualist model of evolutionary change.",
+        "chunks": [
+            "The scientists",
+            "who first proposed the theory",
+            "that the extinction of the dinosaurs",
+            "was caused by an asteroid impact",
+            "were initially met with skepticism",
+            "by a community",
+            "that had long favored the gradualist model",
+            "of evolutionary change."
+        ]
+    },
+    {
+        "id": 3,
+        "original": "A novel that explores the psychological disintegration of its protagonist through a fragmented narrative structure demands from its readers a tolerance for ambiguity that many contemporary critics consider the hallmark of serious literary art.",
+        "chunks": [
+            "A novel",
+            "that explores the psychological disintegration of its protagonist",
+            "through a fragmented narrative structure",
+            "demands from its readers",
+            "a tolerance for ambiguity",
+            "that many contemporary critics consider",
+            "the hallmark of serious literary art."
+        ]
+    },
+    {
+        "id": 4,
+        "original": "The assumption that economic growth inevitably leads to environmental degradation has been questioned by researchers who point to cases in which technological innovation has simultaneously increased productivity and reduced emissions.",
+        "chunks": [
+            "The assumption",
+            "that economic growth inevitably leads to environmental degradation",
+            "has been questioned",
+            "by researchers",
+            "who point to cases",
+            "in which technological innovation has simultaneously increased productivity",
+            "and reduced emissions."
+        ]
+    },
+    {
+        "id": 5,
+        "original": "The theory that language acquisition is governed by an innate universal grammar, which its proponents argue is biologically hardwired into the human brain, remains one of the most contested hypotheses in modern linguistics.",
+        "chunks": [
+            "The theory",
+            "that language acquisition is governed by an innate universal grammar,",
+            "which its proponents argue",
+            "is biologically hardwired into the human brain,",
+            "remains one of the most contested hypotheses",
+            "in modern linguistics."
+        ]
+    },
+    {
+        "id": 6,
+        "original": "Historians who study the political upheavals of the seventeenth century have increasingly come to recognize that the grievances articulated by ordinary citizens often shaped the ideological vocabulary that elites later employed to justify revolutionary change.",
+        "chunks": [
+            "Historians",
+            "who study the political upheavals of the seventeenth century",
+            "have increasingly come to recognize",
+            "that the grievances articulated by ordinary citizens",
+            "often shaped the ideological vocabulary",
+            "that elites later employed",
+            "to justify revolutionary change."
+        ]
+    },
+    {
+        "id": 7,
+        "original": "The claim that consciousness can be fully explained in terms of computational processes occurring in the brain presupposes a correspondence between mental states and physical states that philosophers have debated for centuries.",
+        "chunks": [
+            "The claim",
+            "that consciousness can be fully explained",
+            "in terms of computational processes",
+            "occurring in the brain",
+            "presupposes a correspondence",
+            "between mental states and physical states",
+            "that philosophers have debated for centuries."
+        ]
+    },
+    {
+        "id": 8,
+        "original": "A government that seeks to regulate the flow of information across its borders must confront the paradox that measures designed to protect national security often undermine the very economic competitiveness they are intended to preserve.",
+        "chunks": [
+            "A government",
+            "that seeks to regulate the flow of information",
+            "across its borders",
+            "must confront the paradox",
+            "that measures designed to protect national security",
+            "often undermine the very economic competitiveness",
+            "they are intended to preserve."
+        ]
+    },
+    {
+        "id": 9,
+        "original": "The observation that certain species of birds navigate using the Earth's magnetic field has prompted biologists to investigate the neurological mechanisms that allow organisms to detect subtle variations in geomagnetic intensity.",
+        "chunks": [
+            "The observation",
+            "that certain species of birds navigate",
+            "using the Earth's magnetic field",
+            "has prompted biologists",
+            "to investigate the neurological mechanisms",
+            "that allow organisms to detect",
+            "subtle variations in geomagnetic intensity."
+        ]
+    },
+    {
+        "id": 10,
+        "original": "Critics who dismiss the novel as a mere exercise in stylistic experimentation overlook the extent to which its formal innovations serve to illuminate the moral ambiguities that its characters confront.",
+        "chunks": [
+            "Critics",
+            "who dismiss the novel as a mere exercise",
+            "in stylistic experimentation",
+            "overlook the extent",
+            "to which its formal innovations serve",
+            "to illuminate the moral ambiguities",
+            "that its characters confront."
+        ]
+    },
+    {
+        "id": 11,
+        "original": "The proposition that democratic institutions are most stable when they rest on a foundation of economic equality has been supported by comparative studies of nations that have experienced transitions from authoritarian rule.",
+        "chunks": [
+            "The proposition",
+            "that democratic institutions are most stable",
+            "when they rest on a foundation of economic equality",
+            "has been supported",
+            "by comparative studies of nations",
+            "that have experienced transitions",
+            "from authoritarian rule."
+        ]
+    },
+    {
+        "id": 12,
+        "original": "The discovery that the universe is expanding at an accelerating rate, which was made possible by observations of distant supernovae, has forced cosmologists to revise their models of the universe's ultimate fate.",
+        "chunks": [
+            "The discovery",
+            "that the universe is expanding at an accelerating rate,",
+            "which was made possible",
+            "by observations of distant supernovae,",
+            "has forced cosmologists to revise",
+            "their models of the universe's ultimate fate."
+        ]
+    },
+    {
+        "id": 13,
+        "original": "The tendency of policymakers to favor short-term solutions over long-term strategies, a pattern that has been documented in numerous case studies, reflects the institutional incentives that shape bureaucratic behavior.",
+        "chunks": [
+            "The tendency of policymakers",
+            "to favor short-term solutions over long-term strategies,",
+            "a pattern that has been documented",
+            "in numerous case studies,",
+            "reflects the institutional incentives",
+            "that shape bureaucratic behavior."
+        ]
+    },
+    {
+        "id": 14,
+        "original": "A philosopher who argues that moral judgments are merely expressions of emotional preference must contend with the objection that such a view cannot account for the apparent objectivity of certain ethical claims.",
+        "chunks": [
+            "A philosopher",
+            "who argues that moral judgments are merely expressions of emotional preference",
+            "must contend with the objection",
+            "that such a view cannot account",
+            "for the apparent objectivity",
+            "of certain ethical claims."
+        ]
+    },
+    {
+        "id": 15,
+        "original": "The mechanisms by which cells repair damaged DNA, which have been the subject of intense investigation since the discovery of the double helix, are now understood to involve a complex interplay of enzymes and signaling molecules.",
+        "chunks": [
+            "The mechanisms",
+            "by which cells repair damaged DNA,",
+            "which have been the subject of intense investigation",
+            "since the discovery of the double helix,",
+            "are now understood to involve",
+            "a complex interplay of enzymes and signaling molecules."
+        ]
+    },
+    {
+        "id": 16,
+        "original": "The argument that globalization inevitably erodes cultural diversity ignores the ways in which local communities have adapted imported practices to their own traditions, creating hybrid forms that are neither purely indigenous nor entirely foreign.",
+        "chunks": [
+            "The argument",
+            "that globalization inevitably erodes cultural diversity",
+            "ignores the ways",
+            "in which local communities have adapted imported practices",
+            "to their own traditions,",
+            "creating hybrid forms",
+            "that are neither purely indigenous nor entirely foreign."
+        ]
+    },
+    {
+        "id": 17,
+        "original": "A study that purports to demonstrate a causal link between video game violence and aggressive behavior must address the possibility that individuals predisposed to aggression are more likely to seek out violent games.",
+        "chunks": [
+            "A study",
+            "that purports to demonstrate a causal link",
+            "between video game violence and aggressive behavior",
+            "must address the possibility",
+            "that individuals predisposed to aggression",
+            "are more likely to seek out violent games."
+        ]
+    },
+    {
+        "id": 18,
+        "original": "The insight that economic institutions are embedded in social relations, which was central to the work of early twentieth-century sociologists, has been rediscovered by contemporary scholars who study the informal networks that sustain market exchange.",
+        "chunks": [
+            "The insight",
+            "that economic institutions are embedded in social relations,",
+            "which was central to the work",
+            "of early twentieth-century sociologists,",
+            "has been rediscovered",
+            "by contemporary scholars",
+            "who study the informal networks",
+            "that sustain market exchange."
+        ]
+    },
+    {
+        "id": 19,
+        "original": "The claim that the human mind is a blank slate at birth, which was once a cornerstone of behaviorist psychology, has been largely abandoned in favor of models that emphasize innate cognitive structures.",
+        "chunks": [
+            "The claim",
+            "that the human mind is a blank slate at birth,",
+            "which was once a cornerstone of behaviorist psychology,",
+            "has been largely abandoned",
+            "in favor of models",
+            "that emphasize innate cognitive structures."
+        ]
+    },
+    {
+        "id": 20,
+        "original": "A historian who wishes to reconstruct the daily lives of ordinary people in the ancient world must rely on indirect evidence, such as household artifacts and graffiti, that official records typically ignore.",
+        "chunks": [
+            "A historian",
+            "who wishes to reconstruct the daily lives of ordinary people",
+            "in the ancient world",
+            "must rely on indirect evidence,",
+            "such as household artifacts and graffiti,",
+            "that official records typically ignore."
+        ]
+    },
+    {
+        "id": 21,
+        "original": "The hypothesis that social revolutions occur when rising expectations outpace actual improvements in living conditions has been influential, but it fails to explain why some societies with similar disparities remain stable.",
+        "chunks": [
+            "The hypothesis",
+            "that social revolutions occur",
+            "when rising expectations outpace actual improvements in living conditions",
+            "has been influential,",
+            "but it fails to explain",
+            "why some societies with similar disparities",
+            "remain stable."
+        ]
+    },
+    {
+        "id": 22,
+        "original": "The principle that a scientific theory must be falsifiable, which was articulated most forcefully by Karl Popper, has been challenged by philosophers who argue that it misrepresents the actual practice of scientists.",
+        "chunks": [
+            "The principle",
+            "that a scientific theory must be falsifiable,",
+            "which was articulated most forcefully by Karl Popper,",
+            "has been challenged by philosophers",
+            "who argue",
+            "that it misrepresents the actual practice of scientists."
+        ]
+    },
+    {
+        "id": 23,
+        "original": "The phenomenon of antibiotic resistance, which has emerged as one of the most pressing public health challenges of the twenty-first century, is a direct consequence of the evolutionary pressure that indiscriminate use of antibiotics places on bacterial populations.",
+        "chunks": [
+            "The phenomenon of antibiotic resistance,",
+            "which has emerged as one of the most pressing public health challenges",
+            "of the twenty-first century,",
+            "is a direct consequence",
+            "of the evolutionary pressure",
+            "that indiscriminate use of antibiotics places",
+            "on bacterial populations."
+        ]
+    },
+    {
+        "id": 24,
+        "original": "A novelist who wishes to portray the interior lives of characters from radically different cultural backgrounds must navigate the tension between imaginative empathy and the risk of cultural appropriation.",
+        "chunks": [
+            "A novelist",
+            "who wishes to portray the interior lives of characters",
+            "from radically different cultural backgrounds",
+            "must navigate the tension",
+            "between imaginative empathy",
+            "and the risk of cultural appropriation."
+        ]
+    },
+    {
+        "id": 25,
+        "original": "The evidence that early hominids used stone tools to butcher animal carcasses, which predates the earliest known evidence of controlled fire, suggests that tool use may have played a crucial role in human evolution.",
+        "chunks": [
+            "The evidence",
+            "that early hominids used stone tools",
+            "to butcher animal carcasses,",
+            "which predates the earliest known evidence",
+            "of controlled fire,",
+            "suggests",
+            "that tool use may have played a crucial role",
+            "in human evolution."
+        ]
+    },
+    {
+        "id": 26,
+        "original": "The novel's protagonist, a disillusioned journalist who has spent years covering wars in distant countries, returns to his hometown only to discover that the community he remembers has been transformed beyond recognition.",
+        "chunks": [
+            "The novel's protagonist,",
+            "a disillusioned journalist",
+            "who has spent years covering wars in distant countries,",
+            "returns to his hometown",
+            "only to discover",
+            "that the community he remembers",
+            "has been transformed beyond recognition."
+        ]
+    },
+    {
+        "id": 27,
+        "original": "The theory of plate tectonics, which revolutionized the earth sciences in the 1960s, holds that the Earth's lithosphere is divided into several large plates that move relative to one another over the underlying asthenosphere.",
+        "chunks": [
+            "The theory of plate tectonics,",
+            "which revolutionized the earth sciences in the 1960s,",
+            "holds",
+            "that the Earth's lithosphere is divided into several large plates",
+            "that move relative to one another",
+            "over the underlying asthenosphere."
+        ]
+    },
+    {
+        "id": 28,
+        "original": "The committee's report, which was commissioned by the government to investigate the causes of the financial crisis, concluded that regulatory failures—not merely individual greed—were primarily responsible for the collapse.",
+        "chunks": [
+            "The committee's report,",
+            "which was commissioned by the government",
+            "to investigate the causes of the financial crisis,",
+            "concluded",
+            "that regulatory failures",
+            "—not merely individual greed—",
+            "were primarily responsible for the collapse."
+        ]
+    },
+    {
+        "id": 29,
+        "original": "The author's central argument, that the Industrial Revolution was as much a cultural transformation as an economic one, challenges the tendency of historians to treat technological change as an autonomous force.",
+        "chunks": [
+            "The author's central argument,",
+            "that the Industrial Revolution was as much a cultural transformation",
+            "as an economic one,",
+            "challenges the tendency of historians",
+            "to treat technological change",
+            "as an autonomous force."
+        ]
+    },
+    {
+        "id": 30,
+        "original": "The philosopher's most influential work, a dense treatise that few of his contemporaries claimed to understand, has nevertheless shaped debates in epistemology for more than two centuries.",
+        "chunks": [
+            "The philosopher's most influential work,",
+            "a dense treatise",
+            "that few of his contemporaries claimed to understand,",
+            "has nevertheless shaped debates in epistemology",
+            "for more than two centuries."
+        ]
+    },
+    {
+        "id": 31,
+        "original": "The discovery of penicillin, which Alexander Fleming made almost by accident when he noticed that a mold had contaminated one of his bacterial cultures, inaugurated the antibiotic era in medicine.",
+        "chunks": [
+            "The discovery of penicillin,",
+            "which Alexander Fleming made almost by accident",
+            "when he noticed",
+            "that a mold had contaminated one of his bacterial cultures,",
+            "inaugurated the antibiotic era in medicine."
+        ]
+    },
+    {
+        "id": 32,
+        "original": "The city's rapid expansion, fueled by an influx of immigrants seeking work in its burgeoning textile mills, created severe housing shortages that municipal authorities were ill-prepared to address.",
+        "chunks": [
+            "The city's rapid expansion,",
+            "fueled by an influx of immigrants",
+            "seeking work in its burgeoning textile mills,",
+            "created severe housing shortages",
+            "that municipal authorities were ill-prepared to address."
+        ]
+    },
+    {
+        "id": 33,
+        "original": "The scientist's hypothesis, that the unusual behavioral patterns observed in the study population were the result of environmental rather than genetic factors, was supported by subsequent experiments.",
+        "chunks": [
+            "The scientist's hypothesis,",
+            "that the unusual behavioral patterns",
+            "observed in the study population",
+            "were the result of environmental rather than genetic factors,",
+            "was supported by subsequent experiments."
+        ]
+    },
+    {
+        "id": 34,
+        "original": "The poet's later work, which many critics regard as inferior to her earlier collections, nevertheless contains moments of startling originality that reveal a continuing engagement with questions of mortality and memory.",
+        "chunks": [
+            "The poet's later work,",
+            "which many critics regard as inferior",
+            "to her earlier collections,",
+            "nevertheless contains moments of startling originality",
+            "that reveal a continuing engagement",
+            "with questions of mortality and memory."
+        ]
+    },
+    {
+        "id": 35,
+        "original": "The economist's model, which assumes that individuals always act rationally to maximize their own utility, fails to account for the role of social norms and emotional attachments in shaping economic decisions.",
+        "chunks": [
+            "The economist's model,",
+            "which assumes",
+            "that individuals always act rationally",
+            "to maximize their own utility,",
+            "fails to account for the role",
+            "of social norms and emotional attachments",
+            "in shaping economic decisions."
+        ]
+    },
+    {
+        "id": 36,
+        "original": "The historian's account of the revolution, which draws heavily on previously unexamined archival sources, offers a revisionist interpretation that challenges long-standing assumptions about the motivations of the revolutionary leaders.",
+        "chunks": [
+            "The historian's account of the revolution,",
+            "which draws heavily on previously unexamined archival sources,",
+            "offers a revisionist interpretation",
+            "that challenges long-standing assumptions",
+            "about the motivations of the revolutionary leaders."
+        ]
+    },
+    {
+        "id": 37,
+        "original": "The theory of evolution by natural selection, which Darwin developed after decades of careful observation and reflection, remains the central organizing principle of modern biology.",
+        "chunks": [
+            "The theory of evolution by natural selection,",
+            "which Darwin developed",
+            "after decades of careful observation and reflection,",
+            "remains the central organizing principle",
+            "of modern biology."
+        ]
+    },
+    {
+        "id": 38,
+        "original": "The researcher's findings, which were published in a prestigious journal after extensive peer review, suggest that the conventional wisdom about the causes of the disease may be fundamentally mistaken.",
+        "chunks": [
+            "The researcher's findings,",
+            "which were published in a prestigious journal",
+            "after extensive peer review,",
+            "suggest",
+            "that the conventional wisdom about the causes of the disease",
+            "may be fundamentally mistaken."
+        ]
+    },
+    {
+        "id": 39,
+        "original": "The novel's structure, which alternates between the perspectives of several characters whose lives intersect only tangentially, creates a sense of fragmentation that mirrors the alienation of modern urban existence.",
+        "chunks": [
+            "The novel's structure,",
+            "which alternates between the perspectives of several characters",
+            "whose lives intersect only tangentially,",
+            "creates a sense of fragmentation",
+            "that mirrors the alienation of modern urban existence."
+        ]
+    },
+    {
+        "id": 40,
+        "original": "The Supreme Court's decision, which overturned a precedent that had stood for nearly half a century, was hailed by some as a triumph of justice and condemned by others as an act of judicial overreach.",
+        "chunks": [
+            "The Supreme Court's decision,",
+            "which overturned a precedent",
+            "that had stood for nearly half a century,",
+            "was hailed by some as a triumph of justice",
+            "and condemned by others",
+            "as an act of judicial overreach."
+        ]
+    },
+    {
+        "id": 41,
+        "original": "The artist's later paintings, which were dismissed by many of her contemporaries as the work of a declining talent, have since been recognized as among the most innovative works of the period.",
+        "chunks": [
+            "The artist's later paintings,",
+            "which were dismissed by many of her contemporaries",
+            "as the work of a declining talent,",
+            "have since been recognized",
+            "as among the most innovative works of the period."
+        ]
+    },
+    {
+        "id": 42,
+        "original": "The invention of the printing press, which allowed for the rapid dissemination of ideas across vast distances, is widely regarded as one of the most transformative developments in the history of civilization.",
+        "chunks": [
+            "The invention of the printing press,",
+            "which allowed for the rapid dissemination of ideas",
+            "across vast distances,",
+            "is widely regarded",
+            "as one of the most transformative developments",
+            "in the history of civilization."
+        ]
+    },
+    {
+        "id": 43,
+        "original": "The study's authors, who acknowledge that their sample size was relatively small, caution against generalizing their findings to the broader population without further research.",
+        "chunks": [
+            "The study's authors,",
+            "who acknowledge",
+            "that their sample size was relatively small,",
+            "caution against generalizing their findings",
+            "to the broader population",
+            "without further research."
+        ]
+    },
+    {
+        "id": 44,
+        "original": "The composer's final symphony, which was premiered only after his death, is now considered his masterpiece, though it was initially received with indifference by audiences accustomed to more conventional works.",
+        "chunks": [
+            "The composer's final symphony,",
+            "which was premiered only after his death,",
+            "is now considered his masterpiece,",
+            "though it was initially received with indifference",
+            "by audiences accustomed to more conventional works."
+        ]
+    },
+    {
+        "id": 45,
+        "original": "The phenomenon of globalization, which has accelerated dramatically in recent decades, has created new forms of cultural exchange while simultaneously threatening the survival of indigenous languages and traditions.",
+        "chunks": [
+            "The phenomenon of globalization,",
+            "which has accelerated dramatically in recent decades,",
+            "has created new forms of cultural exchange",
+            "while simultaneously threatening the survival",
+            "of indigenous languages and traditions."
+        ]
+    },
+    {
+        "id": 46,
+        "original": "The architect's design, which was selected from among hundreds of submissions in an international competition, combines elements of traditional Japanese aesthetics with cutting-edge sustainable technology.",
+        "chunks": [
+            "The architect's design,",
+            "which was selected from among hundreds of submissions",
+            "in an international competition,",
+            "combines elements of traditional Japanese aesthetics",
+            "with cutting-edge sustainable technology."
+        ]
+    },
+    {
+        "id": 47,
+        "original": "The novel's treatment of race, which many reviewers found too subtle to be politically effective, has been defended by scholars who argue that its very indirectness constitutes a form of critique.",
+        "chunks": [
+            "The novel's treatment of race,",
+            "which many reviewers found too subtle",
+            "to be politically effective,",
+            "has been defended by scholars",
+            "who argue",
+            "that its very indirectness constitutes a form of critique."
+        ]
+    },
+    {
+        "id": 48,
+        "original": "The theory that the Earth's climate is regulated by complex feedback mechanisms, which include the effects of clouds, ice cover, and atmospheric chemistry, has profound implications for predicting future temperature changes.",
+        "chunks": [
+            "The theory",
+            "that the Earth's climate is regulated by complex feedback mechanisms,",
+            "which include the effects of clouds, ice cover, and atmospheric chemistry,",
+            "has profound implications",
+            "for predicting future temperature changes."
+        ]
+    },
+    {
+        "id": 49,
+        "original": "The museum's collection, which includes works ranging from ancient artifacts to contemporary installations, offers a comprehensive overview of the evolution of human artistic expression.",
+        "chunks": [
+            "The museum's collection,",
+            "which includes works ranging from ancient artifacts to contemporary installations,",
+            "offers a comprehensive overview",
+            "of the evolution of human artistic expression."
+        ]
+    },
+    {
+        "id": 50,
+        "original": "The policy, which was intended to reduce carbon emissions by encouraging the adoption of renewable energy sources, has been criticized for imposing excessive costs on low-income households.",
+        "chunks": [
+            "The policy,",
+            "which was intended to reduce carbon emissions",
+            "by encouraging the adoption of renewable energy sources,",
+            "has been criticized",
+            "for imposing excessive costs on low-income households."
+        ]
+    },
+    {
+        "id": 51,
+        "original": "So profound was the impact of the Industrial Revolution on every aspect of human life that historians have found it difficult to disentangle its economic effects from its social and cultural consequences.",
+        "chunks": [
+            "So profound was the impact of the Industrial Revolution",
+            "on every aspect of human life",
+            "that historians have found it difficult",
+            "to disentangle its economic effects",
+            "from its social and cultural consequences."
+        ]
+    },
+    {
+        "id": 52,
+        "original": "Not only did the discovery of electricity transform the daily lives of ordinary people, but it also fundamentally altered the structure of economic production and the organization of urban space.",
+        "chunks": [
+            "Not only did the discovery of electricity transform",
+            "the daily lives of ordinary people,",
+            "but it also fundamentally altered the structure of economic production",
+            "and the organization of urban space."
+        ]
+    },
+    {
+        "id": 53,
+        "original": "Only when researchers began to examine the problem from a multidisciplinary perspective did they recognize the full complexity of the interactions between biological and environmental factors.",
+        "chunks": [
+            "Only",
+            "when researchers began to examine the problem",
+            "from a multidisciplinary perspective",
+            "did they recognize",
+            "the full complexity of the interactions",
+            "between biological and environmental factors."
+        ]
+    },
+    {
+        "id": 54,
+        "original": "Rarely has a scientific theory provoked such intense controversy as did Darwin's proposal that human beings are descended from apelike ancestors.",
+        "chunks": [
+            "Rarely has a scientific theory provoked such intense controversy",
+            "as did Darwin's proposal",
+            "that human beings are descended from apelike ancestors."
+        ]
+    },
+    {
+        "id": 55,
+        "original": "Among the most significant developments of the twentieth century was the emergence of a global communications network that has fundamentally altered the way information is produced, distributed, and consumed.",
+        "chunks": [
+            "Among the most significant developments of the twentieth century",
+            "was the emergence of a global communications network",
+            "that has fundamentally altered the way",
+            "information is produced, distributed, and consumed."
+        ]
+    },
+    {
+        "id": 56,
+        "original": "Such was the influence of the philosopher's ideas that even those who disagreed with him found themselves compelled to address his arguments in their own work.",
+        "chunks": [
+            "Such was the influence of the philosopher's ideas",
+            "that even those who disagreed with him",
+            "found themselves compelled",
+            "to address his arguments in their own work."
+        ]
+    },
+    {
+        "id": 57,
+        "original": "Not until the development of powerful telescopes did astronomers begin to appreciate the true scale and complexity of the universe.",
+        "chunks": [
+            "Not until the development of powerful telescopes",
+            "did astronomers begin to appreciate",
+            "the true scale and complexity of the universe."
+        ]
+    },
+    {
+        "id": 58,
+        "original": "Central to the author's argument is the claim that the decline of traditional social institutions has left individuals increasingly isolated and vulnerable to the pressures of modern life.",
+        "chunks": [
+            "Central to the author's argument is the claim",
+            "that the decline of traditional social institutions",
+            "has left individuals increasingly isolated",
+            "and vulnerable to the pressures of modern life."
+        ]
+    },
+    {
+        "id": 59,
+        "original": "More important than the specific findings of the study, according to its authors, is the methodological innovation that made those findings possible.",
+        "chunks": [
+            "More important than the specific findings of the study,",
+            "according to its authors,",
+            "is the methodological innovation",
+            "that made those findings possible."
+        ]
+    },
+    {
+        "id": 60,
+        "original": "Equally striking is the degree to which the novel's formal experiments anticipate the narrative techniques that would become commonplace in the following century.",
+        "chunks": [
+            "Equally striking is the degree",
+            "to which the novel's formal experiments anticipate",
+            "the narrative techniques",
+            "that would become commonplace in the following century."
+        ]
+    },
+    {
+        "id": 61,
+        "original": "Only after decades of painstaking research did scientists finally succeed in mapping the entire human genome, a feat that had once seemed impossibly ambitious.",
+        "chunks": [
+            "Only after decades of painstaking research",
+            "did scientists finally succeed",
+            "in mapping the entire human genome,",
+            "a feat",
+            "that had once seemed impossibly ambitious."
+        ]
+    },
+    {
+        "id": 62,
+        "original": "So deeply embedded in the culture is the assumption that economic growth is inherently desirable that alternative models of social organization are rarely given serious consideration.",
+        "chunks": [
+            "So deeply embedded in the culture is the assumption",
+            "that economic growth is inherently desirable",
+            "that alternative models of social organization",
+            "are rarely given serious consideration."
+        ]
+    },
+    {
+        "id": 63,
+        "original": "Of particular interest to historians of science is the question of why certain theories gain widespread acceptance while others, equally well supported by evidence, are ignored or forgotten.",
+        "chunks": [
+            "Of particular interest to historians of science",
+            "is the question",
+            "of why certain theories gain widespread acceptance",
+            "while others,",
+            "equally well supported by evidence,",
+            "are ignored or forgotten."
+        ]
+    },
+    {
+        "id": 64,
+        "original": "Not since the invention of the printing press has a technology so fundamentally transformed the way human beings communicate with one another as the internet has done.",
+        "chunks": [
+            "Not since the invention of the printing press",
+            "has a technology so fundamentally transformed",
+            "the way human beings communicate with one another",
+            "as the internet has done."
+        ]
+    },
+    {
+        "id": 65,
+        "original": "Nowhere is the tension between individual freedom and collective responsibility more vividly illustrated than in the debates over public health policy that have emerged during the pandemic.",
+        "chunks": [
+            "Nowhere is the tension",
+            "between individual freedom and collective responsibility",
+            "more vividly illustrated",
+            "than in the debates over public health policy",
+            "that have emerged during the pandemic."
+        ]
+    },
+    {
+        "id": 66,
+        "original": "Hardly had the first reports of the discovery been published when other researchers began to question the validity of the experimental methods that had been used.",
+        "chunks": [
+            "Hardly had the first reports of the discovery been published",
+            "when other researchers began to question",
+            "the validity of the experimental methods",
+            "that had been used."
+        ]
+    },
+    {
+        "id": 67,
+        "original": "Among the questions that philosophers have debated for centuries is whether moral truths exist independently of human beliefs and practices or are merely products of social convention.",
+        "chunks": [
+            "Among the questions",
+            "that philosophers have debated for centuries",
+            "is whether moral truths exist",
+            "independently of human beliefs and practices",
+            "or are merely products of social convention."
+        ]
+    },
+    {
+        "id": 68,
+        "original": "So complex are the interactions between the brain's neural networks that even the most sophisticated computational models cannot fully simulate the processes involved in simple acts of perception.",
+        "chunks": [
+            "So complex are the interactions",
+            "between the brain's neural networks",
+            "that even the most sophisticated computational models",
+            "cannot fully simulate the processes",
+            "involved in simple acts of perception."
+        ]
+    },
+    {
+        "id": 69,
+        "original": "Only if we understand the historical forces that shaped the institution of slavery can we begin to comprehend the enduring legacy of racial inequality in contemporary society.",
+        "chunks": [
+            "Only if we understand the historical forces",
+            "that shaped the institution of slavery",
+            "can we begin to comprehend",
+            "the enduring legacy of racial inequality",
+            "in contemporary society."
+        ]
+    },
+    {
+        "id": 70,
+        "original": "More disturbing than the economic consequences of climate change, some argue, are the potential social disruptions that may result from mass migration and resource scarcity.",
+        "chunks": [
+            "More disturbing than the economic consequences of climate change,",
+            "some argue,",
+            "are the potential social disruptions",
+            "that may result from mass migration and resource scarcity."
+        ]
+    },
+    {
+        "id": 71,
+        "original": "Not until the middle of the twentieth century did historians begin to take seriously the experiences of ordinary people, as opposed to the deeds of kings and generals.",
+        "chunks": [
+            "Not until the middle of the twentieth century",
+            "did historians begin to take seriously",
+            "the experiences of ordinary people,",
+            "as opposed to the deeds of kings and generals."
+        ]
+    },
+    {
+        "id": 72,
+        "original": "Such is the complexity of the legal system that even trained lawyers often find it difficult to predict how a court will interpret a particular statute.",
+        "chunks": [
+            "Such is the complexity of the legal system",
+            "that even trained lawyers often find it difficult",
+            "to predict",
+            "how a court will interpret a particular statute."
+        ]
+    },
+    {
+        "id": 73,
+        "original": "Central to the novel's thematic structure is the contrast between the protagonist's youthful idealism and the cynical pragmatism he adopts after years of experience.",
+        "chunks": [
+            "Central to the novel's thematic structure",
+            "is the contrast",
+            "between the protagonist's youthful idealism",
+            "and the cynical pragmatism he adopts",
+            "after years of experience."
+        ]
+    },
+    {
+        "id": 74,
+        "original": "Nowhere in the author's extensive body of work is the influence of her early training in music more evident than in the rhythmic prose of her later novels.",
+        "chunks": [
+            "Nowhere in the author's extensive body of work",
+            "is the influence of her early training in music",
+            "more evident",
+            "than in the rhythmic prose of her later novels."
+        ]
+    },
+    {
+        "id": 75,
+        "original": "So rapidly did the technology evolve that regulations designed to govern its use were often obsolete by the time they were implemented.",
+        "chunks": [
+            "So rapidly did the technology evolve",
+            "that regulations designed to govern its use",
+            "were often obsolete",
+            "by the time they were implemented."
+        ]
+    },
+    {
+        "id": 76,
+        "original": "The committee found that the company had not only failed to disclose the risks associated with its product but had also actively sought to suppress evidence that those risks were real.",
+        "chunks": [
+            "The committee found",
+            "that the company had not only failed to disclose the risks",
+            "associated with its product",
+            "but had also actively sought to suppress evidence",
+            "that those risks were real."
+        ]
+    },
+    {
+        "id": 77,
+        "original": "Few historians would deny that the war was caused by a complex combination of factors, but many disagree about which factors were most decisive.",
+        "chunks": [
+            "Few historians would deny",
+            "that the war was caused by a complex combination of factors,",
+            "but many disagree",
+            "about which factors were most decisive."
+        ]
+    },
+    {
+        "id": 78,
+        "original": "The author does not argue that technology is inherently harmful, only that its effects depend on the social and political context in which it is deployed.",
+        "chunks": [
+            "The author does not argue",
+            "that technology is inherently harmful,",
+            "only",
+            "that its effects depend on the social and political context",
+            "in which it is deployed."
+        ]
+    },
+    {
+        "id": 79,
+        "original": "No one who has studied the evidence carefully can seriously maintain that the policy was implemented without regard for its consequences.",
+        "chunks": [
+            "No one",
+            "who has studied the evidence carefully",
+            "can seriously maintain",
+            "that the policy was implemented",
+            "without regard for its consequences."
+        ]
+    },
+    {
+        "id": 80,
+        "original": "It is not unreasonable to suppose that the decline in civic engagement is attributable, at least in part, to changes in the structure of work and leisure.",
+        "chunks": [
+            "It is not unreasonable to suppose",
+            "that the decline in civic engagement is attributable,",
+            "at least in part,",
+            "to changes in the structure of work and leisure."
+        ]
+    },
+    {
+        "id": 81,
+        "original": "The theory cannot be dismissed merely because its predictions have not yet been confirmed; after all, many scientific hypotheses have required decades of research before their implications could be tested.",
+        "chunks": [
+            "The theory cannot be dismissed",
+            "merely because its predictions have not yet been confirmed;",
+            "after all,",
+            "many scientific hypotheses have required decades of research",
+            "before their implications could be tested."
+        ]
+    },
+    {
+        "id": 82,
+        "original": "Neither the supporters nor the critics of the reform have adequately addressed the question of how its costs and benefits will be distributed across different segments of society.",
+        "chunks": [
+            "Neither the supporters nor the critics of the reform",
+            "have adequately addressed the question",
+            "of how its costs and benefits will be distributed",
+            "across different segments of society."
+        ]
+    },
+    {
+        "id": 83,
+        "original": "It would be a mistake to conclude that the author's skepticism about technology implies an uncritical embrace of tradition, for her work is equally attentive to the limitations of premodern forms of knowledge.",
+        "chunks": [
+            "It would be a mistake to conclude",
+            "that the author's skepticism about technology",
+            "implies an uncritical embrace of tradition,",
+            "for her work is equally attentive",
+            "to the limitations of premodern forms of knowledge."
+        ]
+    },
+    {
+        "id": 84,
+        "original": "The evidence does not support the conclusion that the two variables are causally related, nor does it rule out the possibility that a third, unmeasured factor is responsible for the observed correlation.",
+        "chunks": [
+            "The evidence does not support the conclusion",
+            "that the two variables are causally related,",
+            "nor does it rule out the possibility",
+            "that a third, unmeasured factor",
+            "is responsible for the observed correlation."
+        ]
+    },
+    {
+        "id": 85,
+        "original": "There is no reason to believe that the trend toward greater economic inequality is inevitable, but neither is there any guarantee that existing policies will be sufficient to reverse it.",
+        "chunks": [
+            "There is no reason to believe",
+            "that the trend toward greater economic inequality is inevitable,",
+            "but neither is there any guarantee",
+            "that existing policies will be sufficient",
+            "to reverse it."
+        ]
+    },
+    {
+        "id": 86,
+        "original": "The novel does not simply describe the protagonist's isolation; it also explores the ways in which his own choices have contributed to it, without thereby denying the role of external circumstances.",
+        "chunks": [
+            "The novel does not simply describe the protagonist's isolation;",
+            "it also explores the ways",
+            "in which his own choices have contributed to it,",
+            "without thereby denying the role of external circumstances."
+        ]
+    },
+    {
+        "id": 87,
+        "original": "No serious student of the period would claim that the revolution was the product of a single cause, nor would any deny that economic grievances played a significant role.",
+        "chunks": [
+            "No serious student of the period would claim",
+            "that the revolution was the product of a single cause,",
+            "nor would any deny",
+            "that economic grievances played a significant role."
+        ]
+    },
+    {
+        "id": 88,
+        "original": "It is not that the theory is wrong in every respect, but rather that it overstates the importance of one factor while neglecting others that may be equally significant.",
+        "chunks": [
+            "It is not",
+            "that the theory is wrong in every respect,",
+            "but rather",
+            "that it overstates the importance of one factor",
+            "while neglecting others",
+            "that may be equally significant."
+        ]
+    },
+    {
+        "id": 89,
+        "original": "The author's argument is not that scientific progress is undesirable, but that its benefits are distributed unevenly and that its costs are often borne by those who benefit least.",
+        "chunks": [
+            "The author's argument is not",
+            "that scientific progress is undesirable,",
+            "but",
+            "that its benefits are distributed unevenly",
+            "and",
+            "that its costs are often borne by those",
+            "who benefit least."
+        ]
+    },
+    {
+        "id": 90,
+        "original": "Few would argue that the novel is without flaws, yet its ambition and originality make it difficult to dismiss as a merely derivative work.",
+        "chunks": [
+            "Few would argue",
+            "that the novel is without flaws,",
+            "yet its ambition and originality",
+            "make it difficult to dismiss",
+            "as a merely derivative work."
+        ]
+    },
+    {
+        "id": 91,
+        "original": "The claim that markets are self-regulating cannot withstand scrutiny in light of the repeated financial crises that have occurred over the past century.",
+        "chunks": [
+            "The claim",
+            "that markets are self-regulating",
+            "cannot withstand scrutiny",
+            "in light of the repeated financial crises",
+            "that have occurred over the past century."
+        ]
+    },
+    {
+        "id": 92,
+        "original": "It is not enough to note that the two phenomena are correlated; one must also explain the mechanism by which the one might produce the other.",
+        "chunks": [
+            "It is not enough to note",
+            "that the two phenomena are correlated;",
+            "one must also explain the mechanism",
+            "by which the one might produce the other."
+        ]
+    },
+    {
+        "id": 93,
+        "original": "The author does not deny that individual choices matter, only that they are insufficient to explain the broad patterns of social behavior that the book describes.",
+        "chunks": [
+            "The author does not deny",
+            "that individual choices matter,",
+            "only",
+            "that they are insufficient to explain",
+            "the broad patterns of social behavior",
+            "that the book describes."
+        ]
+    },
+    {
+        "id": 94,
+        "original": "Neither the evidence nor the arguments advanced by the theory's proponents are sufficient to establish the conclusion that the hypothesis is correct.",
+        "chunks": [
+            "Neither the evidence",
+            "nor the arguments advanced by the theory's proponents",
+            "are sufficient to establish the conclusion",
+            "that the hypothesis is correct."
+        ]
+    },
+    {
+        "id": 95,
+        "original": "There is little reason to doubt that the discovery will have significant practical applications, although the precise form those applications will take remains uncertain.",
+        "chunks": [
+            "There is little reason to doubt",
+            "that the discovery will have significant practical applications,",
+            "although the precise form those applications will take",
+            "remains uncertain."
+        ]
+    },
+    {
+        "id": 96,
+        "original": "The critic's dismissal of the novel as escapist literature fails to account for the ways in which its apparently fantastic elements engage with pressing social and political questions.",
+        "chunks": [
+            "The critic's dismissal of the novel",
+            "as escapist literature",
+            "fails to account for the ways",
+            "in which its apparently fantastic elements engage",
+            "with pressing social and political questions."
+        ]
+    },
+    {
+        "id": 97,
+        "original": "No one who has read the novel carefully would deny that it is a work of considerable literary skill, even if one might question the coherence of its overall design.",
+        "chunks": [
+            "No one",
+            "who has read the novel carefully",
+            "would deny",
+            "that it is a work of considerable literary skill,",
+            "even if one might question",
+            "the coherence of its overall design."
+        ]
+    },
+    {
+        "id": 98,
+        "original": "It is not simply that the policy has failed to achieve its stated objectives; it has also produced unintended consequences that may prove more damaging than the problem it was designed to address.",
+        "chunks": [
+            "It is not simply",
+            "that the policy has failed to achieve its stated objectives;",
+            "it has also produced unintended consequences",
+            "that may prove more damaging",
+            "than the problem it was designed to address."
+        ]
+    },
+    {
+        "id": 99,
+        "original": "The philosopher's argument cannot be dismissed as merely a restatement of conventional wisdom; it challenges some of our most fundamental assumptions about the nature of knowledge and the limits of human understanding.",
+        "chunks": [
+            "The philosopher's argument cannot be dismissed",
+            "as merely a restatement of conventional wisdom;",
+            "it challenges some of our most fundamental assumptions",
+            "about the nature of knowledge",
+            "and the limits of human understanding."
+        ]
+    },
+    {
+        "id": 100,
+        "original": "Neither the historical evidence nor the theoretical arguments support the conclusion that the decline of the family is a recent phenomenon; indeed, similar concerns have been voiced in every era of rapid social change.",
+        "chunks": [
+            "Neither the historical evidence",
+            "nor the theoretical arguments",
+            "support the conclusion",
+            "that the decline of the family is a recent phenomenon;",
+            "indeed,",
+            "similar concerns have been voiced",
+            "in every era of rapid social change."
+        ]
+    },
+    {
+        "id": 101,
+        "original": "The assumption that technological innovation inevitably produces social progress has been challenged by historians who point to periods in which rapid advances in machinery coincided with worsening conditions for laborers.",
+        "chunks": [
+            "The assumption",
+            "that technological innovation inevitably produces social progress",
+            "has been challenged by historians",
+            "who point to periods",
+            "in which rapid advances in machinery coincided",
+            "with worsening conditions for laborers."
+        ]
+    },
+    {
+        "id": 102,
+        "original": "A critic who reads the poem as a straightforward celebration of rural life overlooks the irony that permeates its descriptions of the very landscapes it appears to praise.",
+        "chunks": [
+            "A critic",
+            "who reads the poem as a straightforward celebration of rural life",
+            "overlooks the irony",
+            "that permeates its descriptions",
+            "of the very landscapes",
+            "it appears to praise."
+        ]
+    },
+    {
+        "id": 103,
+        "original": "The theory that the collapse of the Bronze Age civilizations was triggered by a combination of climate change, migration, and internal rebellion has gained wide acceptance among archaeologists.",
+        "chunks": [
+            "The theory",
+            "that the collapse of the Bronze Age civilizations was triggered",
+            "by a combination of climate change, migration, and internal rebellion",
+            "has gained wide acceptance",
+            "among archaeologists."
+        ]
+    },
+    {
+        "id": 104,
+        "original": "The observation that certain plants release chemicals that inhibit the growth of neighboring species has led ecologists to reconsider the role of competition in shaping plant communities.",
+        "chunks": [
+            "The observation",
+            "that certain plants release chemicals",
+            "that inhibit the growth of neighboring species",
+            "has led ecologists to reconsider",
+            "the role of competition",
+            "in shaping plant communities."
+        ]
+    },
+    {
+        "id": 105,
+        "original": "The claim that economic development necessarily leads to political liberalization has been criticized by scholars who note that authoritarian governments have often presided over periods of rapid growth.",
+        "chunks": [
+            "The claim",
+            "that economic development necessarily leads to political liberalization",
+            "has been criticized by scholars",
+            "who note",
+            "that authoritarian governments have often presided",
+            "over periods of rapid growth."
+        ]
+    },
+    {
+        "id": 106,
+        "original": "The hypothesis that the human capacity for language evolved as a byproduct of other cognitive adaptations has been defended by researchers who emphasize the absence of language-specific brain structures.",
+        "chunks": [
+            "The hypothesis",
+            "that the human capacity for language evolved",
+            "as a byproduct of other cognitive adaptations",
+            "has been defended by researchers",
+            "who emphasize the absence",
+            "of language-specific brain structures."
+        ]
+    },
+    {
+        "id": 107,
+        "original": "A historian who wishes to understand the motivations of ordinary soldiers in the First World War must consult letters and diaries that often reveal attitudes quite different from those expressed in official propaganda.",
+        "chunks": [
+            "A historian",
+            "who wishes to understand the motivations of ordinary soldiers",
+            "in the First World War",
+            "must consult letters and diaries",
+            "that often reveal attitudes",
+            "quite different from those expressed in official propaganda."
+        ]
+    },
+    {
+        "id": 108,
+        "original": "The argument that the novel's fragmented structure reflects the psychological fragmentation of modern life is persuasive, but it does not explain why similar formal experiments appear in works written centuries earlier.",
+        "chunks": [
+            "The argument",
+            "that the novel's fragmented structure reflects",
+            "the psychological fragmentation of modern life",
+            "is persuasive,",
+            "but it does not explain",
+            "why similar formal experiments appear",
+            "in works written centuries earlier."
+        ]
+    },
+    {
+        "id": 109,
+        "original": "The discovery that some bacteria can survive in environments previously thought to be sterile has forced biologists to revise their assumptions about the limits of life on Earth.",
+        "chunks": [
+            "The discovery",
+            "that some bacteria can survive in environments",
+            "previously thought to be sterile",
+            "has forced biologists to revise their assumptions",
+            "about the limits of life on Earth."
+        ]
+    },
+    {
+        "id": 110,
+        "original": "A society that values individual autonomy above all else may find it difficult to sustain the communal institutions that provide meaning and support for those who cannot thrive on their own.",
+        "chunks": [
+            "A society",
+            "that values individual autonomy above all else",
+            "may find it difficult to sustain the communal institutions",
+            "that provide meaning and support",
+            "for those who cannot thrive on their own."
+        ]
+    },
+    {
+        "id": 111,
+        "original": "The evidence that early humans deliberately buried their dead with grave goods, which has been found at sites across Europe and Asia, suggests that they possessed some conception of an afterlife.",
+        "chunks": [
+            "The evidence",
+            "that early humans deliberately buried their dead with grave goods,",
+            "which has been found at sites across Europe and Asia,",
+            "suggests",
+            "that they possessed some conception of an afterlife."
+        ]
+    },
+    {
+        "id": 112,
+        "original": "The principle that a government derives its legitimacy from the consent of the governed, which was articulated most influentially by Locke, has shaped political thought for more than three centuries.",
+        "chunks": [
+            "The principle",
+            "that a government derives its legitimacy from the consent of the governed,",
+            "which was articulated most influentially by Locke,",
+            "has shaped political thought",
+            "for more than three centuries."
+        ]
+    },
+    {
+        "id": 113,
+        "original": "The scientist's conclusion, that the observed anomalies were caused by instrument error rather than by a genuine physical phenomenon, was met with resistance by colleagues who had spent years pursuing the alternative explanation.",
+        "chunks": [
+            "The scientist's conclusion,",
+            "that the observed anomalies were caused by instrument error",
+            "rather than by a genuine physical phenomenon,",
+            "was met with resistance by colleagues",
+            "who had spent years pursuing the alternative explanation."
+        ]
+    },
+    {
+        "id": 114,
+        "original": "The author's treatment of memory, which shifts between nostalgic idealization and painful confrontation, reflects the ambivalence that many immigrants feel toward the homeland they have left behind.",
+        "chunks": [
+            "The author's treatment of memory,",
+            "which shifts between nostalgic idealization and painful confrontation,",
+            "reflects the ambivalence",
+            "that many immigrants feel",
+            "toward the homeland they have left behind."
+        ]
+    },
+    {
+        "id": 115,
+        "original": "The theory that the universe began in a state of extremely high density and temperature, which was first proposed in the 1920s, has been confirmed by a wide range of observational evidence.",
+        "chunks": [
+            "The theory",
+            "that the universe began in a state of extremely high density and temperature,",
+            "which was first proposed in the 1920s,",
+            "has been confirmed",
+            "by a wide range of observational evidence."
+        ]
+    },
+    {
+        "id": 116,
+        "original": "A policymaker who assumes that citizens always act in their own rational self-interest may design regulations that ignore the powerful role of habit, emotion, and social pressure in shaping behavior.",
+        "chunks": [
+            "A policymaker",
+            "who assumes",
+            "that citizens always act in their own rational self-interest",
+            "may design regulations",
+            "that ignore the powerful role of habit, emotion, and social pressure",
+            "in shaping behavior."
+        ]
+    },
+    {
+        "id": 117,
+        "original": "The finding that children who learn a second language before adolescence achieve native-like proficiency more easily than those who begin later has important implications for educational policy.",
+        "chunks": [
+            "The finding",
+            "that children who learn a second language before adolescence",
+            "achieve native-like proficiency more easily",
+            "than those who begin later",
+            "has important implications",
+            "for educational policy."
+        ]
+    },
+    {
+        "id": 118,
+        "original": "The argument that markets allocate resources more efficiently than governments, which has dominated economic policy for decades, has been qualified by recognition of the market's failure to account for environmental costs.",
+        "chunks": [
+            "The argument",
+            "that markets allocate resources more efficiently than governments,",
+            "which has dominated economic policy for decades,",
+            "has been qualified",
+            "by recognition of the market's failure",
+            "to account for environmental costs."
+        ]
+    },
+    {
+        "id": 119,
+        "original": "The novel's narrator, whose reliability is repeatedly called into question by discrepancies between his account and the documentary record, embodies the uncertainty that characterizes all historical knowledge.",
+        "chunks": [
+            "The novel's narrator,",
+            "whose reliability is repeatedly called into question",
+            "by discrepancies between his account and the documentary record,",
+            "embodies the uncertainty",
+            "that characterizes all historical knowledge."
+        ]
+    },
+    {
+        "id": 120,
+        "original": "The mechanism by which the immune system distinguishes between the body's own cells and foreign invaders, which has been studied intensively for decades, remains incompletely understood.",
+        "chunks": [
+            "The mechanism",
+            "by which the immune system distinguishes",
+            "between the body's own cells and foreign invaders,",
+            "which has been studied intensively for decades,",
+            "remains incompletely understood."
+        ]
+    },
+    {
+        "id": 121,
+        "original": "So rapid has been the growth of urban populations in developing countries that infrastructure and housing have frequently failed to keep pace with the demand.",
+        "chunks": [
+            "So rapid has been the growth of urban populations",
+            "in developing countries",
+            "that infrastructure and housing have frequently failed",
+            "to keep pace with the demand."
+        ]
+    },
+    {
+        "id": 122,
+        "original": "Not only did the reform fail to reduce inequality, but it also increased the burden on those it was ostensibly designed to help.",
+        "chunks": [
+            "Not only did the reform fail to reduce inequality,",
+            "but it also increased the burden",
+            "on those it was ostensibly designed to help."
+        ]
+    },
+    {
+        "id": 123,
+        "original": "Only when the data are analyzed with methods that account for confounding variables can researchers draw reliable conclusions about the causal effects of the policy.",
+        "chunks": [
+            "Only",
+            "when the data are analyzed with methods",
+            "that account for confounding variables",
+            "can researchers draw reliable conclusions",
+            "about the causal effects of the policy."
+        ]
+    },
+    {
+        "id": 124,
+        "original": "Rarely has a single invention so thoroughly transformed the organization of daily life as the smartphone has done within the span of a single generation.",
+        "chunks": [
+            "Rarely has a single invention so thoroughly transformed",
+            "the organization of daily life",
+            "as the smartphone has done",
+            "within the span of a single generation."
+        ]
+    },
+    {
+        "id": 125,
+        "original": "Among the most enduring legacies of the ancient world is the concept of citizenship, which continues to shape political institutions in societies that have little else in common with their ancient predecessors.",
+        "chunks": [
+            "Among the most enduring legacies of the ancient world",
+            "is the concept of citizenship,",
+            "which continues to shape political institutions",
+            "in societies that have little else in common",
+            "with their ancient predecessors."
+        ]
+    },
+    {
+        "id": 126,
+        "original": "Such was the prestige of the scientist's work that even those who questioned his methods acknowledged the originality of his theoretical contributions.",
+        "chunks": [
+            "Such was the prestige of the scientist's work",
+            "that even those who questioned his methods",
+            "acknowledged the originality",
+            "of his theoretical contributions."
+        ]
+    },
+    {
+        "id": 127,
+        "original": "Not until the development of statistical methods capable of handling large datasets did social scientists begin to test their theories against empirical evidence on a large scale.",
+        "chunks": [
+            "Not until the development of statistical methods",
+            "capable of handling large datasets",
+            "did social scientists begin to test their theories",
+            "against empirical evidence on a large scale."
+        ]
+    },
+    {
+        "id": 128,
+        "original": "Central to the theory is the claim that the observed patterns of behavior are the product of evolutionary pressures that operated over hundreds of thousands of years.",
+        "chunks": [
+            "Central to the theory is the claim",
+            "that the observed patterns of behavior",
+            "are the product of evolutionary pressures",
+            "that operated over hundreds of thousands of years."
+        ]
+    },
+    {
+        "id": 129,
+        "original": "More significant than the immediate economic losses, according to many analysts, is the erosion of public trust that follows repeated failures of regulatory oversight.",
+        "chunks": [
+            "More significant than the immediate economic losses,",
+            "according to many analysts,",
+            "is the erosion of public trust",
+            "that follows repeated failures of regulatory oversight."
+        ]
+    },
+    {
+        "id": 130,
+        "original": "Equally remarkable is the extent to which the composer's late works anticipate the harmonic innovations that would transform music in the following century.",
+        "chunks": [
+            "Equally remarkable is the extent",
+            "to which the composer's late works anticipate",
+            "the harmonic innovations",
+            "that would transform music in the following century."
+        ]
+    },
+    {
+        "id": 131,
+        "original": "Only after years of experimentation did the engineers succeed in developing a material strong enough to withstand the extreme temperatures of the engine.",
+        "chunks": [
+            "Only after years of experimentation",
+            "did the engineers succeed",
+            "in developing a material strong enough",
+            "to withstand the extreme temperatures of the engine."
+        ]
+    },
+    {
+        "id": 132,
+        "original": "So deeply ingrained is the habit of viewing economic growth as an unqualified good that alternative conceptions of social well-being are rarely taken seriously in public debate.",
+        "chunks": [
+            "So deeply ingrained is the habit",
+            "of viewing economic growth as an unqualified good",
+            "that alternative conceptions of social well-being",
+            "are rarely taken seriously in public debate."
+        ]
+    },
+    {
+        "id": 133,
+        "original": "Of special concern to public health officials is the question of why certain communities resist vaccination campaigns despite the clear evidence of their effectiveness.",
+        "chunks": [
+            "Of special concern to public health officials",
+            "is the question",
+            "of why certain communities resist vaccination campaigns",
+            "despite the clear evidence of their effectiveness."
+        ]
+    },
+    {
+        "id": 134,
+        "original": "Not since the industrial revolution has a technological change so rapidly and so thoroughly reorganized the nature of work as the automation of routine tasks has done.",
+        "chunks": [
+            "Not since the industrial revolution",
+            "has a technological change so rapidly and so thoroughly reorganized",
+            "the nature of work",
+            "as the automation of routine tasks has done."
+        ]
+    },
+    {
+        "id": 135,
+        "original": "Nowhere is the conflict between economic development and environmental preservation more visible than in the rapidly expanding cities of the developing world.",
+        "chunks": [
+            "Nowhere is the conflict",
+            "between economic development and environmental preservation",
+            "more visible",
+            "than in the rapidly expanding cities of the developing world."
+        ]
+    },
+    {
+        "id": 136,
+        "original": "Hardly had the new policy been announced when critics began to point out that it would disproportionately burden the very families it was intended to assist.",
+        "chunks": [
+            "Hardly had the new policy been announced",
+            "when critics began to point out",
+            "that it would disproportionately burden the very families",
+            "it was intended to assist."
+        ]
+    },
+    {
+        "id": 137,
+        "original": "Among the factors that contributed to the decline of the empire, historians have identified the erosion of civic virtue as perhaps the most important.",
+        "chunks": [
+            "Among the factors",
+            "that contributed to the decline of the empire,",
+            "historians have identified the erosion of civic virtue",
+            "as perhaps the most important."
+        ]
+    },
+    {
+        "id": 138,
+        "original": "So complex is the relationship between genes and behavior that even the most detailed genetic maps cannot predict how a particular organism will respond to a given environment.",
+        "chunks": [
+            "So complex is the relationship between genes and behavior",
+            "that even the most detailed genetic maps cannot predict",
+            "how a particular organism will respond",
+            "to a given environment."
+        ]
+    },
+    {
+        "id": 139,
+        "original": "Only if the underlying causes of poverty are addressed can policies designed to alleviate its symptoms hope to achieve lasting results.",
+        "chunks": [
+            "Only if the underlying causes of poverty are addressed",
+            "can policies designed to alleviate its symptoms",
+            "hope to achieve lasting results."
+        ]
+    },
+    {
+        "id": 140,
+        "original": "More troubling than the rise in unemployment, some economists argue, is the decline in the quality of the jobs that remain available to workers without advanced degrees.",
+        "chunks": [
+            "More troubling than the rise in unemployment,",
+            "some economists argue,",
+            "is the decline in the quality of the jobs",
+            "that remain available to workers without advanced degrees."
+        ]
+    },
+    {
+        "id": 141,
+        "original": "Not until the middle of the nineteenth century did physicians begin to understand that disease could be transmitted through contaminated water rather than through foul air.",
+        "chunks": [
+            "Not until the middle of the nineteenth century",
+            "did physicians begin to understand",
+            "that disease could be transmitted through contaminated water",
+            "rather than through foul air."
+        ]
+    },
+    {
+        "id": 142,
+        "original": "Such is the influence of early childhood experience on later development that psychologists have found it difficult to isolate the effects of any single factor.",
+        "chunks": [
+            "Such is the influence of early childhood experience",
+            "on later development",
+            "that psychologists have found it difficult",
+            "to isolate the effects of any single factor."
+        ]
+    },
+    {
+        "id": 143,
+        "original": "Central to the novel's achievement is the way its multiple narrators, none of whom can be fully trusted, collectively create a portrait of a society in crisis.",
+        "chunks": [
+            "Central to the novel's achievement is the way",
+            "its multiple narrators,",
+            "none of whom can be fully trusted,",
+            "collectively create a portrait of a society in crisis."
+        ]
+    },
+    {
+        "id": 144,
+        "original": "Nowhere in the historical record is the tension between religious authority and scientific inquiry more clearly documented than in the trial of Galileo.",
+        "chunks": [
+            "Nowhere in the historical record",
+            "is the tension between religious authority and scientific inquiry",
+            "more clearly documented",
+            "than in the trial of Galileo."
+        ]
+    },
+    {
+        "id": 145,
+        "original": "So pervasive was the influence of the philosopher's ideas that even his critics found themselves adopting his vocabulary and framing their objections in his terms.",
+        "chunks": [
+            "So pervasive was the influence of the philosopher's ideas",
+            "that even his critics found themselves",
+            "adopting his vocabulary",
+            "and framing their objections in his terms."
+        ]
+    },
+    {
+        "id": 146,
+        "original": "The committee concluded that the company had neither adequately disclosed the risks of its product nor taken reasonable steps to ensure that consumers understood them.",
+        "chunks": [
+            "The committee concluded",
+            "that the company had neither adequately disclosed the risks of its product",
+            "nor taken reasonable steps to ensure",
+            "that consumers understood them."
+        ]
+    },
+    {
+        "id": 147,
+        "original": "Few scholars would deny that the revolution was shaped by economic grievances, but many disagree about whether those grievances were the primary cause or merely one contributing factor among many.",
+        "chunks": [
+            "Few scholars would deny",
+            "that the revolution was shaped by economic grievances,",
+            "but many disagree",
+            "about whether those grievances were the primary cause",
+            "or merely one contributing factor among many."
+        ]
+    },
+    {
+        "id": 148,
+        "original": "The author does not claim that globalization is uniformly harmful, only that its benefits and costs are distributed in ways that existing political institutions are poorly equipped to manage.",
+        "chunks": [
+            "The author does not claim",
+            "that globalization is uniformly harmful,",
+            "only",
+            "that its benefits and costs are distributed",
+            "in ways that existing political institutions are poorly equipped to manage."
+        ]
+    },
+    {
+        "id": 149,
+        "original": "No one who has examined the evidence closely can maintain that the decline of the species was caused solely by hunting rather than by the combined effects of habitat loss and climate change.",
+        "chunks": [
+            "No one",
+            "who has examined the evidence closely",
+            "can maintain",
+            "that the decline of the species was caused solely by hunting",
+            "rather than by the combined effects of habitat loss and climate change."
+        ]
+    },
+    {
+        "id": 150,
+        "original": "It is not unreasonable to argue that the novel's apparent lack of resolution reflects a deliberate refusal to impose meaning on experiences that resist easy interpretation.",
+        "chunks": [
+            "It is not unreasonable to argue",
+            "that the novel's apparent lack of resolution",
+            "reflects a deliberate refusal",
+            "to impose meaning on experiences",
+            "that resist easy interpretation."
+        ]
+    },
+    {
+        "id": 151,
+        "original": "The theory cannot be rejected merely because it has not yet been confirmed by experiment; many of the most fruitful scientific ideas required decades of investigation before their implications could be tested.",
+        "chunks": [
+            "The theory cannot be rejected",
+            "merely because it has not yet been confirmed by experiment;",
+            "many of the most fruitful scientific ideas",
+            "required decades of investigation",
+            "before their implications could be tested."
+        ]
+    },
+    {
+        "id": 152,
+        "original": "Neither the evidence presented by the prosecution nor the arguments advanced by the defense were sufficient to persuade the jury that the defendant was either clearly guilty or clearly innocent.",
+        "chunks": [
+            "Neither the evidence presented by the prosecution",
+            "nor the arguments advanced by the defense",
+            "were sufficient to persuade the jury",
+            "that the defendant was either clearly guilty or clearly innocent."
+        ]
+    },
+    {
+        "id": 153,
+        "original": "It would be misleading to conclude that the author's skepticism about technology implies a rejection of science, for her work draws extensively on scientific research.",
+        "chunks": [
+            "It would be misleading to conclude",
+            "that the author's skepticism about technology",
+            "implies a rejection of science,",
+            "for her work draws extensively on scientific research."
+        ]
+    },
+    {
+        "id": 154,
+        "original": "The data do not support the conclusion that the two trends are causally linked, nor do they exclude the possibility that both are consequences of a third, unidentified factor.",
+        "chunks": [
+            "The data do not support the conclusion",
+            "that the two trends are causally linked,",
+            "nor do they exclude the possibility",
+            "that both are consequences of a third, unidentified factor."
+        ]
+    },
+    {
+        "id": 155,
+        "original": "There is little reason to think that the migration patterns observed among birds are learned rather than innate, but neither is there conclusive evidence that they are entirely genetically determined.",
+        "chunks": [
+            "There is little reason to think",
+            "that the migration patterns observed among birds are learned",
+            "rather than innate,",
+            "but neither is there conclusive evidence",
+            "that they are entirely genetically determined."
+        ]
+    },
+    {
+        "id": 156,
+        "original": "The essay does not merely describe the erosion of public discourse; it also analyzes the institutional incentives that have encouraged the substitution of spectacle for argument.",
+        "chunks": [
+            "The essay does not merely describe the erosion of public discourse;",
+            "it also analyzes the institutional incentives",
+            "that have encouraged the substitution of spectacle for argument."
+        ]
+    },
+    {
+        "id": 157,
+        "original": "No responsible historian would claim that the war was inevitable, nor would any deny that the decisions of a few individuals played a decisive role in its outbreak.",
+        "chunks": [
+            "No responsible historian would claim",
+            "that the war was inevitable,",
+            "nor would any deny",
+            "that the decisions of a few individuals played a decisive role",
+            "in its outbreak."
+        ]
+    },
+    {
+        "id": 158,
+        "original": "It is not that the model is wrong in every particular, but rather that it simplifies the interactions among variables to a degree that makes its predictions unreliable.",
+        "chunks": [
+            "It is not",
+            "that the model is wrong in every particular,",
+            "but rather",
+            "that it simplifies the interactions among variables",
+            "to a degree that makes its predictions unreliable."
+        ]
+    },
+    {
+        "id": 159,
+        "original": "The author's point is not that technology is inherently dangerous, but that its dangers are often invisible to those who benefit most directly from its use.",
+        "chunks": [
+            "The author's point is not",
+            "that technology is inherently dangerous,",
+            "but",
+            "that its dangers are often invisible",
+            "to those who benefit most directly from its use."
+        ]
+    },
+    {
+        "id": 160,
+        "original": "Few would contend that the novel is without weaknesses, yet its imaginative range and emotional power make it difficult to dismiss as a minor work.",
+        "chunks": [
+            "Few would contend",
+            "that the novel is without weaknesses,",
+            "yet its imaginative range and emotional power",
+            "make it difficult to dismiss",
+            "as a minor work."
+        ]
+    },
+    {
+        "id": 161,
+        "original": "The claim that human rights are universal cannot be dismissed simply because different cultures articulate them in different terms, nor can it be defended without attention to the ways in which power shapes their interpretation.",
+        "chunks": [
+            "The claim",
+            "that human rights are universal",
+            "cannot be dismissed simply",
+            "because different cultures articulate them in different terms,",
+            "nor can it be defended",
+            "without attention to the ways",
+            "in which power shapes their interpretation."
+        ]
+    },
+    {
+        "id": 162,
+        "original": "It is not sufficient to demonstrate that the two events occurred at the same time; one must also provide a plausible mechanism by which the first could have caused the second.",
+        "chunks": [
+            "It is not sufficient to demonstrate",
+            "that the two events occurred at the same time;",
+            "one must also provide a plausible mechanism",
+            "by which the first could have caused the second."
+        ]
+    },
+    {
+        "id": 163,
+        "original": "The author does not deny that individual agency matters, only that it is constrained by structural forces that no single person can fully control.",
+        "chunks": [
+            "The author does not deny",
+            "that individual agency matters,",
+            "only",
+            "that it is constrained by structural forces",
+            "that no single person can fully control."
+        ]
+    },
+    {
+        "id": 164,
+        "original": "Neither the theory's internal coherence nor the elegance of its mathematics is sufficient to establish that it accurately describes the physical world.",
+        "chunks": [
+            "Neither the theory's internal coherence",
+            "nor the elegance of its mathematics",
+            "is sufficient to establish",
+            "that it accurately describes the physical world."
+        ]
+    },
+    {
+        "id": 165,
+        "original": "There is little doubt that the policy will reduce emissions, although the extent of the reduction and its long-term economic consequences remain subjects of considerable debate.",
+        "chunks": [
+            "There is little doubt",
+            "that the policy will reduce emissions,",
+            "although the extent of the reduction",
+            "and its long-term economic consequences",
+            "remain subjects of considerable debate."
+        ]
+    },
+    {
+        "id": 166,
+        "original": "The critic's dismissal of the movement as a passing fashion fails to explain why its ideas continue to shape debates in fields as diverse as architecture, education, and political theory.",
+        "chunks": [
+            "The critic's dismissal of the movement",
+            "as a passing fashion",
+            "fails to explain",
+            "why its ideas continue to shape debates",
+            "in fields as diverse as architecture, education, and political theory."
+        ]
+    },
+    {
+        "id": 167,
+        "original": "No one who has studied the period in detail would argue that the revolution was simply the product of economic hardship, even if economic factors undoubtedly played a significant role.",
+        "chunks": [
+            "No one",
+            "who has studied the period in detail",
+            "would argue",
+            "that the revolution was simply the product of economic hardship,",
+            "even if economic factors undoubtedly played a significant role."
+        ]
+    },
+    {
+        "id": 168,
+        "original": "It is not merely that the policy has failed to achieve its goals; it has also undermined the very institutions it was designed to strengthen.",
+        "chunks": [
+            "It is not merely",
+            "that the policy has failed to achieve its goals;",
+            "it has also undermined the very institutions",
+            "it was designed to strengthen."
+        ]
+    },
+    {
+        "id": 169,
+        "original": "The philosopher's argument cannot be reduced to a simple defense of tradition; it challenges some of our most cherished assumptions about the nature of progress and the value of innovation.",
+        "chunks": [
+            "The philosopher's argument cannot be reduced",
+            "to a simple defense of tradition;",
+            "it challenges some of our most cherished assumptions",
+            "about the nature of progress",
+            "and the value of innovation."
+        ]
+    },
+    {
+        "id": 170,
+        "original": "Neither the historical record nor the testimony of contemporaries supports the claim that the leader acted alone; indeed, the evidence suggests a complex network of collaborators.",
+        "chunks": [
+            "Neither the historical record",
+            "nor the testimony of contemporaries",
+            "supports the claim",
+            "that the leader acted alone;",
+            "indeed,",
+            "the evidence suggests a complex network of collaborators."
+        ]
+    },
+    {
+        "id": 171,
+        "original": "The report's authors caution that their findings, while statistically significant, should not be interpreted as proof of a causal relationship between the two variables.",
+        "chunks": [
+            "The report's authors caution",
+            "that their findings,",
+            "while statistically significant,",
+            "should not be interpreted as proof",
+            "of a causal relationship between the two variables."
+        ]
+    },
+    {
+        "id": 172,
+        "original": "The novel's ending, which leaves the protagonist's fate unresolved, has been read by some critics as a failure of craft and by others as a deliberate refusal of closure.",
+        "chunks": [
+            "The novel's ending,",
+            "which leaves the protagonist's fate unresolved,",
+            "has been read by some critics as a failure of craft",
+            "and by others as a deliberate refusal of closure."
+        ]
+    },
+    {
+        "id": 173,
+        "original": "The theory that intelligence is a single general capacity, which was once widely accepted, has been challenged by evidence that different cognitive abilities are largely independent of one another.",
+        "chunks": [
+            "The theory",
+            "that intelligence is a single general capacity,",
+            "which was once widely accepted,",
+            "has been challenged by evidence",
+            "that different cognitive abilities are largely independent of one another."
+        ]
+    },
+    {
+        "id": 174,
+        "original": "The movement's leaders, whose rhetoric emphasized solidarity and shared sacrifice, nonetheless found themselves divided by disagreements over strategy and tactics.",
+        "chunks": [
+            "The movement's leaders,",
+            "whose rhetoric emphasized solidarity and shared sacrifice,",
+            "nonetheless found themselves divided",
+            "by disagreements over strategy and tactics."
+        ]
+    },
+    {
+        "id": 175,
+        "original": "The discovery of a planet orbiting a distant star, which was announced last year, has renewed interest in the question of whether life exists elsewhere in the universe.",
+        "chunks": [
+            "The discovery of a planet orbiting a distant star,",
+            "which was announced last year,",
+            "has renewed interest in the question",
+            "of whether life exists elsewhere in the universe."
+        ]
+    },
+    {
+        "id": 176,
+        "original": "The author's depiction of the city, which moves between lyrical celebration and harsh indictment, captures the ambivalence that many residents feel toward the place they call home.",
+        "chunks": [
+            "The author's depiction of the city,",
+            "which moves between lyrical celebration and harsh indictment,",
+            "captures the ambivalence",
+            "that many residents feel",
+            "toward the place they call home."
+        ]
+    },
+    {
+        "id": 177,
+        "original": "The hypothesis that dreams serve a function in consolidating memories, which has been supported by sleep laboratory studies, remains controversial among neuroscientists.",
+        "chunks": [
+            "The hypothesis",
+            "that dreams serve a function in consolidating memories,",
+            "which has been supported by sleep laboratory studies,",
+            "remains controversial",
+            "among neuroscientists."
+        ]
+    },
+    {
+        "id": 178,
+        "original": "The researcher's conclusions, which were based on a sample of only fifty participants, have been criticized as premature by scholars who argue that larger studies are needed.",
+        "chunks": [
+            "The researcher's conclusions,",
+            "which were based on a sample of only fifty participants,",
+            "have been criticized as premature by scholars",
+            "who argue",
+            "that larger studies are needed."
+        ]
+    },
+    {
+        "id": 179,
+        "original": "The historian's argument, that the revolution was as much a product of cultural change as of economic grievance, has been influential but remains contested.",
+        "chunks": [
+            "The historian's argument,",
+            "that the revolution was as much a product of cultural change",
+            "as of economic grievance,",
+            "has been influential",
+            "but remains contested."
+        ]
+    },
+    {
+        "id": 180,
+        "original": "The institution's decline, which many attributed to changes in the broader economy, was in fact hastened by a series of poor decisions by its leadership.",
+        "chunks": [
+            "The institution's decline,",
+            "which many attributed to changes in the broader economy,",
+            "was in fact hastened",
+            "by a series of poor decisions by its leadership."
+        ]
+    },
+    {
+        "id": 181,
+        "original": "So profound was the shift in public opinion that even longstanding opponents of the reform began to acknowledge the need for change.",
+        "chunks": [
+            "So profound was the shift in public opinion",
+            "that even longstanding opponents of the reform",
+            "began to acknowledge the need for change."
+        ]
+    },
+    {
+        "id": 182,
+        "original": "Not only did the study fail to replicate the original findings, but it also revealed methodological flaws that cast doubt on the earlier research.",
+        "chunks": [
+            "Not only did the study fail to replicate the original findings,",
+            "but it also revealed methodological flaws",
+            "that cast doubt on the earlier research."
+        ]
+    },
+    {
+        "id": 183,
+        "original": "Only when the two perspectives are brought into dialogue can we begin to appreciate the complexity of the phenomenon they both seek to explain.",
+        "chunks": [
+            "Only when the two perspectives are brought into dialogue",
+            "can we begin to appreciate",
+            "the complexity of the phenomenon",
+            "they both seek to explain."
+        ]
+    },
+    {
+        "id": 184,
+        "original": "Rarely has a work of literature provoked such divergent interpretations as this novel, which has been read as everything from a conservative defense of tradition to a radical critique of it.",
+        "chunks": [
+            "Rarely has a work of literature provoked such divergent interpretations",
+            "as this novel,",
+            "which has been read as everything",
+            "from a conservative defense of tradition",
+            "to a radical critique of it."
+        ]
+    },
+    {
+        "id": 185,
+        "original": "Among the most important contributions of the study is its demonstration that social factors, rather than individual choices alone, shape health outcomes.",
+        "chunks": [
+            "Among the most important contributions of the study",
+            "is its demonstration",
+            "that social factors,",
+            "rather than individual choices alone,",
+            "shape health outcomes."
+        ]
+    },
+    {
+        "id": 186,
+        "original": "Such was the complexity of the legal issues involved that the court took more than a year to reach a decision.",
+        "chunks": [
+            "Such was the complexity of the legal issues involved",
+            "that the court took more than a year",
+            "to reach a decision."
+        ]
+    },
+    {
+        "id": 187,
+        "original": "Not until the advent of modern genetics did biologists begin to understand the mechanisms by which traits are transmitted from one generation to the next.",
+        "chunks": [
+            "Not until the advent of modern genetics",
+            "did biologists begin to understand",
+            "the mechanisms by which traits are transmitted",
+            "from one generation to the next."
+        ]
+    },
+    {
+        "id": 188,
+        "original": "Central to the author's critique is the observation that the policies designed to promote equality have in practice reinforced the very hierarchies they were meant to dismantle.",
+        "chunks": [
+            "Central to the author's critique is the observation",
+            "that the policies designed to promote equality",
+            "have in practice reinforced the very hierarchies",
+            "they were meant to dismantle."
+        ]
+    },
+    {
+        "id": 189,
+        "original": "More striking than the similarities between the two theories, according to the author, are the profound differences in their underlying assumptions.",
+        "chunks": [
+            "More striking than the similarities between the two theories,",
+            "according to the author,",
+            "are the profound differences",
+            "in their underlying assumptions."
+        ]
+    },
+    {
+        "id": 190,
+        "original": "Equally important is the question of how the benefits of the new technology will be distributed across different segments of society.",
+        "chunks": [
+            "Equally important is the question",
+            "of how the benefits of the new technology will be distributed",
+            "across different segments of society."
+        ]
+    },
+    {
+        "id": 191,
+        "original": "Only after the publication of the full transcript did the public begin to appreciate the extent to which the committee's deliberations had been shaped by political pressure.",
+        "chunks": [
+            "Only after the publication of the full transcript",
+            "did the public begin to appreciate",
+            "the extent to which the committee's deliberations",
+            "had been shaped by political pressure."
+        ]
+    },
+    {
+        "id": 192,
+        "original": "So widespread is the belief that hard work inevitably leads to success that those who fail are often blamed for their own misfortune.",
+        "chunks": [
+            "So widespread is the belief",
+            "that hard work inevitably leads to success",
+            "that those who fail",
+            "are often blamed for their own misfortune."
+        ]
+    },
+    {
+        "id": 193,
+        "original": "Of particular interest to researchers is the question of why some individuals recover from trauma while others, exposed to similar experiences, do not.",
+        "chunks": [
+            "Of particular interest to researchers",
+            "is the question",
+            "of why some individuals recover from trauma",
+            "while others,",
+            "exposed to similar experiences,",
+            "do not."
+        ]
+    },
+    {
+        "id": 194,
+        "original": "Not since the end of the Cold War has the international order been so unsettled as it is today, with longstanding alliances strained and new rivalries emerging.",
+        "chunks": [
+            "Not since the end of the Cold War",
+            "has the international order been so unsettled",
+            "as it is today,",
+            "with longstanding alliances strained",
+            "and new rivalries emerging."
+        ]
+    },
+    {
+        "id": 195,
+        "original": "Nowhere is the tension between conservation and development more acute than in regions that are simultaneously rich in natural resources and home to vulnerable communities.",
+        "chunks": [
+            "Nowhere is the tension between conservation and development",
+            "more acute",
+            "than in regions",
+            "that are simultaneously rich in natural resources",
+            "and home to vulnerable communities."
+        ]
+    },
+    {
+        "id": 196,
+        "original": "Hardly had the new evidence come to light when the prevailing interpretation of the events began to unravel.",
+        "chunks": [
+            "Hardly had the new evidence come to light",
+            "when the prevailing interpretation of the events",
+            "began to unravel."
+        ]
+    },
+    {
+        "id": 197,
+        "original": "Among the questions that remain unresolved is whether the observed changes are the result of human activity or of natural cycles that operate over centuries.",
+        "chunks": [
+            "Among the questions that remain unresolved",
+            "is whether the observed changes are the result of human activity",
+            "or of natural cycles",
+            "that operate over centuries."
+        ]
+    },
+    {
+        "id": 198,
+        "original": "So intricate are the feedback loops that regulate the climate system that even small changes in one component can produce large and unpredictable effects elsewhere.",
+        "chunks": [
+            "So intricate are the feedback loops",
+            "that regulate the climate system",
+            "that even small changes in one component",
+            "can produce large and unpredictable effects elsewhere."
+        ]
+    },
+    {
+        "id": 199,
+        "original": "Only if we recognize the limitations of our own perspective can we begin to understand the experiences of those whose lives differ profoundly from our own.",
+        "chunks": [
+            "Only if we recognize the limitations of our own perspective",
+            "can we begin to understand",
+            "the experiences of those",
+            "whose lives differ profoundly from our own."
+        ]
+    },
+    {
+        "id": 200,
+        "original": "More significant than the immediate political consequences, many observers believe, is the long-term erosion of faith in democratic institutions that the crisis has accelerated.",
+        "chunks": [
+            "More significant than the immediate political consequences,",
+            "many observers believe,",
+            "is the long-term erosion of faith in democratic institutions",
+            "that the crisis has accelerated."
+        ]
+    }
+]

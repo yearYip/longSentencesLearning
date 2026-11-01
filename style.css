@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Georgia, "Times New Roman", serif;
+    background: #f7f7f5;
+    color: #222;
+    line-height: 1.8;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    background: #1f2937;
+    color: #fff;
+    padding: 16px 24px;
+    z-index: 10;
+}
+
+header h1 {
+    font-size: 1.2rem;
+    margin: 0 0 10px;
+}
+
+.toolbar {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.toolbar input {
+    padding: 6px 10px;
+    border: none;
+    border-radius: 4px;
+    min-width: 220px;
+}
+
+.toolbar button {
+    padding: 6px 12px;
+    border: none;
+    border-radius: 4px;
+    background: #3b82f6;
+    color: #fff;
+    cursor: pointer;
+}
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+.sentence-card {
+    background: #fff;
+    border-radius: 8px;
+    padding: 18px 22px;
+    margin-bottom: 18px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .08);
+}
+
+.sentence-id {
+    font-size: .8rem;
+    color: #888;
+    margin-bottom: 6px;
+}
+
+.original {
+    font-size: 1.05rem;
+}
+
+.chunks {
+    font-size: 1.05rem;
+}
+
+.chunk {
+    display: inline;
+}
+
+.chunk+.chunk::before {
+    content: " / ";
+    color: #d97706;
+    font-weight: bold;
+}
+
+/* 意群模式下每段可加轻微底色，便于视觉切分 */
+.chunks .chunk {
+    background: #fffbeb;
+    border-radius: 3px;
+    padding: 1px 2px;
+}
+
+.hidden {
+    display: none;
+}
